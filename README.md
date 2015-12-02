@@ -82,3 +82,5 @@ The attribute selector can really help you target elements in unique ways. Examp
 + If multiple Classes are applied to the same element the Class listed furthest to the right overrules its neighbors to the left.
 + Uses “last man” rule. When conflicts with equal authority arise, CSS will listen to the last style it was told to apply. 
 + Now you know everything about CSS! *Go practice with the Graffiti lab and try using your new skills on your personal page.*
+
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-css-selectors' data-visibility='hidden'>View this lesson on Learn.co</a>
